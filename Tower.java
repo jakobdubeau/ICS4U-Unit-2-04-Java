@@ -2,7 +2,7 @@
 * This program solves
 * the Tower of Hanoi riddle.
 *
-* @author  Mr Coxall
+* @author Jakob
 * @version 1.0
 * @since   2021-05-11
 */
